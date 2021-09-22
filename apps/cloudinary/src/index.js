@@ -5,7 +5,7 @@ import { setup } from '@contentful/dam-app-base';
 
 import logo from './logo.svg';
 
-const MAX_FILES_UPPER_LIMIT = 25;
+const MAX_FILES_UPPER_LIMIT = 500;
 const CTA = 'Select or upload a file on Cloudinary';
 const VALID_IMAGE_FORMATS = [
   'svg',
